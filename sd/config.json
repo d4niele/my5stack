@@ -1,0 +1,12 @@
+"hosts": {
+    "PC1": {
+        "nome": "PC_HP",
+        "ip_address": "192.168.0.153",
+        "mac_address": "2c:41:38:b3:7a:b8"
+    }
+  },
+  "wifi":{
+        "SSID": "ssid",
+        "password": "000000"
+  }
+}
